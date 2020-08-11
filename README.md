@@ -1,6 +1,6 @@
   
  <div align="center" >
-  <img style="width:640px; padding:20px ; border : 1px solid #ff79c6;	background-color : #282a36;" src="./rogerio-layback-lagoa-da-conceicao.gif" alt="Rogerio Orioli - Layback Floripa"/>
+  <img style="width:640px; padding:20px ; border : 1px solid #ff79c6;	background-color : #282a36;" src="https://github.com/rogeriorioli/rogeriorioli/raw/master/rogerio-layback-lagoa-da-conceicao.gif" alt="Rogerio Orioli - Layback Floripa"/>
 </div>
 ### About me 👋
 
