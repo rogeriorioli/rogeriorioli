@@ -1,5 +1,7 @@
-  ![Alt Text](htps://im5.ezgif.com/tmp/ezgif-5-aac136bf0a47.gif)
-
+  
+ <div align="center" >
+  <img style="width:640px; padding:20px ; border : 1px solid #ff79c6;	background-color : #282a36;" src="./rogerio-layback-lagoa-da-conceicao.gif" alt="Rogerio Orioli - Layback Floripa"/>
+</div>
 ### About me 👋
 
 Paulistano, Web Developer and Graphic Designer whit solid knowledgment in Javascript and Wordpress , 
