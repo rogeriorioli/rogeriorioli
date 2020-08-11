@@ -1,11 +1,4 @@
-<div align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriorioli/)](https://www.linkedin.com/in/rogeriorioli/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogerio@designhope.com.br)](mailto:rogerio@designhope.com.br)
-
-</div>
-
-
+  ![Alt Text](htps://im5.ezgif.com/tmp/ezgif-5-aac136bf0a47.gif)
 
 ### About me 👋
 
@@ -31,3 +24,10 @@ I have great love for advertising, art and Javascript.
 - Avocode 
 - Photoshop
 - Gimp
+
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriorioli/)](https://www.linkedin.com/in/rogeriorioli/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogerio@designhope.com.br)](mailto:rogerio@designhope.com.br)
+
+</div>
