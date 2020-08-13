@@ -12,7 +12,7 @@ I have great love for advertising, art and Javascript.
 
 
 ### Languages
-- Javascript (Back & Front)
+- Javascript & TypeScript (Back & Front)
 - PHP 
 - Wordpress / React / Vue / Ember / Gatsby 
 
