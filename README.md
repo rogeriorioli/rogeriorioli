@@ -17,10 +17,16 @@ I have great love for advertising, art and Javascript.
 - Wordpress / React / Vue / Ember / Gatsby 
 
 
+### Databases
+- Mongo
+- Mysql
+- sqlite
+
 
 ### Cloud 
 - Aws
 - Digital Ocean
+- Heroku 
 
 
 ### Tools 
@@ -28,6 +34,14 @@ I have great love for advertising, art and Javascript.
 - Avocode 
 - Photoshop
 - Gimp
+- Figma
+
+## contact
+
+- +55 11 98988-5408
+- rogerio@designhope.com.br
+- rogerioorioli.tech
+
 
 <div align="center">
   
