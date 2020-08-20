@@ -27,9 +27,14 @@ I have great love for advertising, art and Javascript.
 - Aws
 - Digital Ocean
 - Heroku 
+- Vercel
+- Firebase hosting
+- Netlify
 
 
-### Tools 
+
+
+### Tools
 - Adobe XD
 - Avocode 
 - Photoshop
@@ -37,7 +42,6 @@ I have great love for advertising, art and Javascript.
 - Figma
 
 ## contact
-
 - +55 11 98988-5408
 - rogerio@designhope.com.br
 - rogerioorioli.tech
