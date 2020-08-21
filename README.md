@@ -13,8 +13,10 @@ I have great love for advertising, art and Javascript.
 
 ### Languages
 - Javascript & TypeScript (Back & Front)
+-  React / Vue / Ember / Gatsby  = LTS ❤️
+- Node
 - PHP 
-- Wordpress / React / Vue / Ember / Gatsby 
+- Wordpress = (drepecated) hahaha
 
 
 ### Databases
