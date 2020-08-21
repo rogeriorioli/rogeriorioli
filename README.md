@@ -16,7 +16,7 @@ I have great love for advertising, art and Javascript.
 -  React / Vue / Ember / Gatsby  = LTS ❤️
 - Node
 - PHP 
-- Wordpress = (drepecated) hahaha
+- Wordpress = (deprecated) hahaha
 
 
 ### Databases
