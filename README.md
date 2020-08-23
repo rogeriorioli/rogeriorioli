@@ -46,7 +46,7 @@ I have great love for advertising, art and Javascript.
 ## contact
 - +55 11 98988-5408
 - rogerio@designhope.com.br
-- rogerioorioli.tech
+- https://rogerioorioli.dev.br/
 
 
 <div align="center">
