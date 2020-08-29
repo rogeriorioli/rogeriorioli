@@ -43,6 +43,16 @@ I have great love for advertising, art and Javascript.
 - Gimp
 - Figma
 
+## Sounds 
+🇬🇧 🇯🇲 
+- Reggae
+- SKA
+- Rockstead 
+
+# Football ⚽️
+- ⚓︎ Corinthians
+- ⚒ West Ham United
+
 ## contact
 - +55 11 98988-5408
 - rogerio@designhope.com.br
