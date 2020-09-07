@@ -44,7 +44,7 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 🇬🇧 🇯🇲 
 - Reggae
 - SKA
-- Rockstead 
+- Rocksteady
 
 # Football ⚽️
 - ⚓︎ Corinthians
