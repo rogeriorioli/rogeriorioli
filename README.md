@@ -18,7 +18,9 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 
 ### Databases
 - Mongo
+- Firebase
 - Mysql
+- Postgres
 - sqlite
 
 
