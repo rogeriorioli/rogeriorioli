@@ -47,6 +47,8 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 - Reggae
 - SKA
 - Rocksteady
+- Punk Rock
+- HardCore
 
 # Football ⚽️
 - ⚓︎ Corinthians
