@@ -2,7 +2,7 @@
  <div align="center" >
   <img style="width:640px; padding:20px ; border : 1px solid #ff79c6;	background-color : #282a36;" src="https://github.com/rogeriorioli/rogeriorioli/raw/master/rogerio-layback-lagoa-da-conceicao.gif" alt="Rogerio Orioli - Layback Floripa"/>
 </div>
-<img src="https://designhope.s3.amazonaws.com/1600052123547.jpeg" />
+
 ### About me 👋
 
 Front end developer with solid knowledge in JavaScript, HTML, CSS , always updated on the best tools libs and frameworks , with passages in consultancies and agencies serving large customers and large projects both as a developer and web designer and also with knowledge in digital marketing, today very focused on full stack development with React and React native and Node Js.
