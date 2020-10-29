@@ -66,3 +66,4 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogerio@designhope.com.br)](mailto:rogerio@designhope.com.br)
 
 </div>
+<img src="https://valid.x86.fr/cache/banner/wr8zpe-4.png"/>
