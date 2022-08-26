@@ -55,7 +55,7 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 - ⚒ West Ham United
 
 ## contact
-- +55 48 996537988
+- +55 48 992035400
 - rogerio@designhope.com.br
 - https://rogerioorioli.dev.br/
 
