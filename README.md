@@ -9,7 +9,7 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 
 
 ### Languages
-- Javascript & TypeScript (Back & Front)
+- Javascript & TypeScript (Back & Front) FOR LIFE 
 -  React / Vue / Ember / Gatsby  = LTS ❤️
 - Node
 - PHP 
