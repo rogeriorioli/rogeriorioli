@@ -14,7 +14,7 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 - Node
 - PHP 
 - Wordpress = (deprecated) hahaha
-- @vtex = deprecated (shit garbage)
+- @vtex = deprecated (LIXO BUGADO)
 
 ### Databases
 - Mongo
