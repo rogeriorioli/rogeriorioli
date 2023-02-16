@@ -13,8 +13,8 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 -  React / Vue / Ember / Gatsby  = LTS ❤️
 - Node
 - PHP 
-- Wordpress = (deprecated) hahaha
-- @vtex = Bugado demais (deprecated)
+- Wordpress
+- vtex 
 
 ### Databases
 - Mongo
