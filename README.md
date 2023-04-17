@@ -23,7 +23,6 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 - Postgres
 - sqlite
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriorioli&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 ### Cloud 
