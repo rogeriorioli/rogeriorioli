@@ -10,11 +10,11 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 
 ### Languages
 - Javascript & TypeScript (Back & Front) FOR LIFE 
--  React / Vue / Ember / Gatsby  = LTS ❤️
+- React
 - Node
 - PHP 
 - Wordpress
-- vtex 
+- vtex (i hate it )
 
 ### Databases
 - Mongo
@@ -34,8 +34,6 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 - Netlify
 
 
-
-
 ### Tools
 - Adobe XD
 - Avocode 
@@ -51,12 +49,12 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 - Punk Rock
 - HardCore
 
-# Football ⚽️
+## Football ⚽️
 - ⚓︎ Corinthians
 - ⚒ West Ham United
 
 ## contact
-- +55 11 972194218
+- +55 48 99177-5899
 - rogerio@designhope.com.br
 - https://rogeriorioli.vercel.app
 
