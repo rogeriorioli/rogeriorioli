@@ -9,6 +9,7 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 
 
 ### Languages
+- IA Prompt Engineer
 - Javascript & TypeScript (Back & Front) FOR LIFE 
 - React
 - Node
