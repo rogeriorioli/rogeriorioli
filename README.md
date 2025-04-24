@@ -14,7 +14,7 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 - Node
 - PHP 
 - Wordpress
-- vtex (i hate it )
+- vtex (Legacy/IO)
 
 ### Databases
 - Mongo
