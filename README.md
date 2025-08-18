@@ -15,6 +15,7 @@ Front end developer with solid knowledge in JavaScript, HTML, CSS , always updat
 - Node
 - PHP 
 - Wordpress
+- SHOPIFY (LIQUID / HYGROGEN)
 - vtex (Legacy/IO)
 
 ### Databases
