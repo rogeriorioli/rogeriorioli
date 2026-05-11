@@ -3,68 +3,94 @@
   <img style="width:640px; padding:20px ; border : 1px solid #ff79c6;	background-color : #282a36;" src="https://github.com/rogeriorioli/rogeriorioli/raw/master/rogerio-layback-lagoa-da-conceicao.gif" alt="Rogerio Orioli - Layback Floripa"/>
 </div>
 
-### About me 👋
 
-Front end developer with solid knowledge in JavaScript, HTML, CSS , always updated on the best tools libs and frameworks , with passages in consultancies and agencies serving large customers and large projects both as a developer and web designer and also with knowledge in digital marketing, today very focused on full stack development with React and React native and Node Js.
+### Olá, meu nome é Carlos Roger Orioli.
+
+**Software Engineer FullStack & AI Consultant** Especialista em arquiteturas de alta performance para e-commerce e entusiasta de automação inteligente. Com mais de 10 anos de estrada, já ajudei gigantes como **McDonald's, Whirlpool e Motorola** a escalarem seus produtos digitais. Atualmente, foco em unir a robustez do desenvolvimento Fullstack com o poder da **IA Generativa**.
+
+*  **Atualmente:** Desenvolvendo MVPs para startups e consultoria em sistemas agênticos.
 
 
-### Languages
-- IA Prompt Engineer
-- Javascript & TypeScript (Back & Front) FOR LIFE 
-- React
-- Node
-- PHP 
-- Wordpress
-- SHOPIFY (LIQUID / HYGROGEN)
-- vtex (Legacy/IO)
+* **AI Stack:** Focado em **Model Context Protocol (MCP)**, **Vibe Coding** e automação de fluxos de engenharia.
 
-### Databases
-- Mongo
-- Firebase
-- Mysql
-- Postgres
-- sqlite
+
+* **E-commerce:** Expert em ecossistemas **VTEX (IO/Legacy)** e **Shopify (Liquid/Hydrogen)**.
+
+
+*  **Idiomas:** Fluente em Português e Espanhol; Inglês profissional.
 
 
 
-### Cloud 
-- Aws
-- Digital Ocean
-- Heroku 
-- Vercel
-- Firebase hosting
-- Netlify
+---
+
+### 🛠 Tech Stack
+
+**Languages & Core**
+
+* **Javascript & TypeScript** (FullStack for Life) 
 
 
-### Tools
-- Adobe XD
-- Avocode 
-- Photoshop
-- Gimp
-- Figma
-
-## Sounds 
-🇬🇧 🇯🇲 
-- Reggae
-- SKA
-- Rocksteady
-- Punk Rock
-- HardCore
-
-## Football ⚽️
-- ⚓︎ Corinthians
-- ⚒ West Ham United
-
-## contact
-- +55 48 99177-5899
-- rogerio@designhope.com.br
-- https://rogeriorioli.vercel.app
+ 
+* **AI Prompt Engineering** & Agentic Workflows 
 
 
-<div align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriorioli/)](https://www.linkedin.com/in/rogeriorioli/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogerio@designhope.com.br)](mailto:rogerio@designhope.com.br)
+* **React & Next.js** | **Node.js** 
 
-</div>
+
+* **React Native** (Mobile Development) 
+
+
+* **PHP, Wordpress, Shopify, VTEX 
+
+
+
+* **Databases & Cloud**
+
+*  **DB:** MongoDB, MySQL, PostgreSQL, Firebase & SQLite 
+
+
+*  **Cloud:** AWS (Lambda, S3, EC2), Vercel, Digital Ocean & Netlify 
+
+
+
+**Tools & Design**
+
+* Figma, Adobe XD, Photoshop 
+
+
+* Core Web Vitals & SEO Optimization 
+
+
+
+---
+
+### 🎵 Sounds & Lifestyle
+
+Quando não estou codando ou treinando **Jiu Jitsu** 🥋, estou ouvindo:
+
+* Reggae, SKA & Rocksteady 🇬🇧 🇯🇲
+* Punk Rock & HardCore
+
+---
+
+### ⚽ Football
+
+* **Corinthians** ⚓︎
+* **West Ham United** ⚒
+
+---
+
+### 📩 Contact & Connect
+
+* 📍 Florianópolis, SC 
+
+
+* 📞 +55 48 99177-5899 
+
+
+* 📧 [crorioli81@gmail.com]() 
+
+
+* 🌐 [rogeriorioli.vercel.app](https://rogeriorioli.vercel.app) 
+
 
