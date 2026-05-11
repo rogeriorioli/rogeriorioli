@@ -4,7 +4,7 @@
 </div>
 
 
-### Olá, meu nome é Carlos Roger Orioli.
+### Olá, meu nome é Carlos Rogerio Orioli.
 
 **Software Engineer FullStack & AI Consultant** Especialista em arquiteturas de alta performance para e-commerce e entusiasta de automação inteligente. Com mais de 10 anos de estrada, já ajudei gigantes como **McDonald's, Whirlpool e Motorola** a escalarem seus produtos digitais. Atualmente, foco em unir a robustez do desenvolvimento Fullstack com o poder da **IA Generativa**.
 
